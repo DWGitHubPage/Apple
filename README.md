@@ -1,4 +1,8 @@
-# MacbookPro
+# MacbookPro and Apple related things.
+
+[Apple Security Updates](https://support.apple.com/en-us/HT201222)
+
+
 How to fix various things with Macbook Pro.
 
 # How to go into safe mode.
