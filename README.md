@@ -38,6 +38,17 @@ https://www.ifixit.com/Wiki/How_to_reset_NVRAM_and_PRAM_on_a_Mac
 
 https://support.apple.com/en-us/HT204063
 
+## If everything on desktop disappears:
 
+1. Click on the top left Apple logo.
+2. Open System Preferences.
+3. Go to the iCloud app which should be at the top and click on Options.
+4. Make sure the Desktop & Documents Folder is checked.
+
+Another way to recover desktop files and shortcuts:
+
+1. Click on th Spotlight icon in the top right.
+2. Type Desktop Folder in the Spotlight Search bar.
+3. Click on the desktop folder and manually put them back on your desktop.
 
 
