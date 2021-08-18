@@ -1,4 +1,4 @@
-##Just updated to Big Sur from Catalina and will put things that I come across with it here for future reference.
+## Just updated to Big Sur from Catalina and will put things that I come across with it here for future reference.
 
 ## Show the Percentage of Battery at the top of Desktop:
 1. Click on the top left **Apple logo** and go to **System Preferences**.
