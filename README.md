@@ -7,8 +7,9 @@ How to fix various things with Macbook Pro.
 
 # How to go into safe mode.
 
-1. Turn on or restart your Mac, then immediately press and hold the Shift key as your Mac starts up.
-2. Release the key when you see the login window, then log in to your Mac. 
+1. Turn off your Mac and wait ten seconds.
+2. Then restart your Mac, immediately after, press and hold down the Shift key.
+3. Release the Shift key when you see the login window and log into it. 
 
 You might be asked to log in again. On either the first or second login window, you should see ”Safe Boot” in the upper-right corner of the window.
 
