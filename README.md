@@ -34,6 +34,11 @@ https://support.apple.com/en-us/HT201295
 # Resetting the NVRAM (Non-volatile Random Access Memory)
 # The below steps also reset PRAM (Parameter RAM)
 
+# Resetting the NVRAM:
+
+1. Turn off the computer.
+2. Turn computer back on and press the "command", "option", "p", and "r" buttons for twenty seconds while computer restarts.
+
 1. Shut down your Mac.
 
 2. Press and release the power button, then immediately press and hold the following keys: option, command, P, and R.
