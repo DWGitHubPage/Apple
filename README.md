@@ -16,19 +16,11 @@ You might be asked to log in again. On either the first or second login window, 
 https://support.apple.com/en-us/HT201262
 
 
-# Resetting the SMC (System Management Controller)
+# Resetting the SMC (System Management Controller):
 
-1. Shut down your Mac.
+1. Shut down your computer.
 
-2. On your built-in keyboard, press and hold all of these keys:
-
-Shift  on the left side of your keyboard.
-Control on the left side of your keyboard.
-Option (Alt) on the left side of your keyboard.
-
-3. While holding all three keys, press and hold the power button as well.
-
-https://support.apple.com/en-us/HT201295
+2. Press and hold down these keys on the left side of the keyboard: "Shift", "Option", and "Control" for ten seconds along with the restart button. 
 
 
 # Resetting the NVRAM (Non-volatile Random Access Memory)
