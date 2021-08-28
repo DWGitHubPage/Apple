@@ -15,6 +15,17 @@ You might be asked to log in again. On either the first or second login window, 
 
 https://support.apple.com/en-us/HT201262
 
+# Starting Apple Diagnostics:
+
+For Intel processor:
+
+1. Turn on the mac and immediately press and hold down the "D" key until you see a progress bar or if you're asked to choose a language.
+
+For Apple silicon:
+
+1. Turn on the mac and press while holding down the power button. 
+2. Release it when you see the startup options window and immediately press the Command and "D" buttons.
+
 
 # Resetting the SMC (System Management Controller):
 
