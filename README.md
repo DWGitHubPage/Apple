@@ -49,6 +49,15 @@ https://www.ifixit.com/Wiki/How_to_reset_NVRAM_and_PRAM_on_a_Mac
 
 https://support.apple.com/en-us/HT204063
 
+# Making sure your mac is in stealth mode:
+
+1. Click the Apple logo button on the top left. Then "System Preferences." 
+2. Click "Security & Privacy", then click "Firewall."
+3. If the lock at the bottom left is locked , click it to unlock.
+4. Click Firewall Options.
+5. Select “Enable stealth mode" at the bottom, then click OK.
+6. Make sure to click the lock to close it once you are finished.
+
 ## If everything on desktop disappears:
 
 1. Click on the top left Apple logo.
