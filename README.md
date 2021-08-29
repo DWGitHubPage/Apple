@@ -1,11 +1,11 @@
-# MacbookPro and Apple related things.
+## MacbookPro and Apple related things.
 
 [Apple Security Updates](https://support.apple.com/en-us/HT201222)
 
 
 How to fix various things with Macbook Pro.
 
-# How to go into safe mode.
+## How to go into safe mode.
 
 1. Turn off your Mac and wait ten seconds.
 2. Then restart your Mac, immediately after, press and hold down the Shift key.
@@ -15,7 +15,7 @@ You might be asked to log in again. On either the first or second login window, 
 
 https://support.apple.com/en-us/HT201262
 
-# Starting Apple Diagnostics:
+## Starting Apple Diagnostics:
 
 For Intel processor:
 
@@ -27,15 +27,15 @@ For Apple silicon:
 2. Release it when you see the startup options window and immediately press the Command and "D" buttons.
 
 
-# Resetting the SMC (System Management Controller):
+## Resetting the SMC (System Management Controller):
 
 1. Shut down your computer.
 
 2. Press and hold down these keys on the left side of the keyboard: "Shift", "Option", and "Control" for ten seconds along with the restart button. 
 
 
-# Resetting the NVRAM (Non-volatile Random Access Memory)
-# The below steps also reset PRAM (Parameter RAM)
+## Resetting the NVRAM (Non-volatile Random Access Memory)
+## The below steps also reset PRAM (Parameter RAM)
 
 1. Turn off the computer.
 2. Turn computer back on and press the "command", "option", "p", and "r" buttons for twenty seconds while computer restarts.
@@ -49,7 +49,7 @@ https://www.ifixit.com/Wiki/How_to_reset_NVRAM_and_PRAM_on_a_Mac
 
 https://support.apple.com/en-us/HT204063
 
-# Making sure your mac is in stealth mode:
+## Making sure your mac is in stealth mode:
 
 1. Click the Apple logo button on the top left. Then "System Preferences." 
 2. Click "Security & Privacy", then click "Firewall."
@@ -70,5 +70,3 @@ Another way to recover desktop files and shortcuts:
 1. Click on th Spotlight icon in the top right.
 2. Type Desktop Folder in the Spotlight Search bar.
 3. Click on the desktop folder and manually put them back on your desktop.
-
-
