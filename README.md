@@ -1,4 +1,4 @@
-## MacbookPro and Apple related things.
+[Apple Support](https://support.apple.com)
 
 [Apple Security Updates](https://support.apple.com/en-us/HT201222)
 
