@@ -1,3 +1,5 @@
+[Apple's Self Service Repair Support Page](https://support.apple.com/self-service-repair)
+
 [Apple Support](https://support.apple.com)
 
 [Apple Security Updates](https://support.apple.com/en-us/HT201222)
