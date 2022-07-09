@@ -7,6 +7,10 @@
 
 How to fix various things with Macbook Pro.
 
+## To find IP address:
+
+Option key + Wifi button at the top of screen.
+
 ## How to go into safe mode.
 
 1. Turn off your Mac and wait ten seconds.
